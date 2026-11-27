@@ -26,12 +26,12 @@ SOURCES = {
            "url": "https://claude.ai/artifact/RpQrFKPPX4DL2W1udMjGFa"},
     "ja": {"dir": "japanese", "lang": "일본어", "prefix": "일본어", "split": 2,
            "url": "https://claude.ai/artifact/T1SByDwNYfMQnwpYAQTpjM"},
-    "en-ec": {"dir": "english", "lang": "영어", "prefix": "영어 EC", "split": 3,
+    "en-ec": {"dir": "english-ec", "lang": "영어 EC", "prefix": "영어 EC", "split": 3,
               "url": "https://claude.ai/artifact/Lrqr1YUK8naGPTRAEN8n4q"},
-    "en-biz": {"dir": "english", "lang": "영어", "prefix": "업무 영어", "split": 3,
+    "en-biz": {"dir": "english-biz", "lang": "영어 비즈니스·업무", "prefix": "업무 영어", "split": 3,
                "url": "https://claude.ai/artifact/APZGuviyiunBCnh7vah8ps"},
 }
-LANG_ORDER = [("chinese", "중국어"), ("japanese", "일본어"), ("english", "영어")]
+LANG_ORDER = [("chinese", "중국어"), ("japanese", "일본어"), ("english-ec", "영어 EC"), ("english-biz", "영어 비즈니스·업무")]
 INTRO_SECTIONS = {"정리 방식"}
 VOCAB_HEADS = {"단어", "한자", "가타카나"}
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")

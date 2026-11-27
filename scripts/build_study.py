@@ -15,7 +15,7 @@ import build_wiki  # noqa: E402
 ROOT = build_wiki.ROOT
 STUDY = ROOT / "study"
 OUT = ROOT / "index.html"
-CATEGORIES = [("chinese", "중국어"), ("japanese", "일본어"), ("english", "영어")]
+CATEGORIES = [("chinese", "중국어"), ("japanese", "일본어"), ("english-ec", "영어 EC"), ("english-biz", "영어 비즈니스·업무")]
 
 
 def main() -> None:

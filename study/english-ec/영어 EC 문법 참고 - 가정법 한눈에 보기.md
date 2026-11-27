@@ -1,6 +1,6 @@
 ---
 title: 영어 EC 문법 참고 - 가정법 한눈에 보기
-category: english
+category: english-ec
 source: en-ec
 order: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: 영어 EC 단어 14 집·건물 종류 (types of buildings)
-category: english
+category: english-ec
 source: en-ec
 order: 1
 ---

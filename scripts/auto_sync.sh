@@ -36,8 +36,8 @@ if [ -n "$hits" ]; then
   exit 0
 fi
 
-areas=$(git diff --cached --name-only | awk -F/ '{print $1}' | sort -u | tr '\n' ' ' | sed 's/ $//')
-count=$(git diff --cached --name-only | wc -l | tr -d ' ')
+areas=$(git -c core.quotePath=false diff --cached --name-only | awk -F/ '{print $1}' | sort -u | tr '\n' ' ' | sed 's/ $//')
+count=$(git -c core.quotePath=false diff --cached --name-only | wc -l | tr -d ' ')
 if [ -n "$AUTO_SYNC_DRY_RUN" ]; then  # 시험용: 커밋·push 없이 결과만 보여줌
   git reset -q; say "시험 실행: ${count}개 파일 커밋 예정 (${areas})"; exit 0
 fi

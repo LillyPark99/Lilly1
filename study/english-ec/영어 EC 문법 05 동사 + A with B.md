@@ -1,6 +1,6 @@
 ---
 title: 영어 EC 문법 05 동사 + A with B
-category: english
+category: english-ec
 source: en-ec
 order: 1
 ---

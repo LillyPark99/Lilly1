@@ -1,6 +1,6 @@
 ---
 title: 영어 EC 문법 04 분사 형용사 (-ed / -ing)
-category: english
+category: english-ec
 source: en-ec
 order: 1
 ---

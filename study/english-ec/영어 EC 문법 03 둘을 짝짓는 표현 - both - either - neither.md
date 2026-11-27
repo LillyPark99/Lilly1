@@ -1,6 +1,6 @@
 ---
 title: 영어 EC 문법 03 둘을 짝짓는 표현 - both / either / neither
-category: english
+category: english-ec
 source: en-ec
 order: 1
 ---

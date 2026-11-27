@@ -1,6 +1,6 @@
 ---
 title: 영어 EC 공부 노트
-category: english
+category: english-ec
 source: en-ec
 order: 0
 ---
