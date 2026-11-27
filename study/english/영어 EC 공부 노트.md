@@ -12,7 +12,7 @@ order: 0
 - 단어: 주제별 표. 단어, 뜻, 메모(헷갈리는 점·업무에서 쓰는 뜻)
 - 문법: 비슷한 문법끼리 묶어 형태와 예문 1개씩
 
-- 원본 문서: [영어 EC 공부 노트](https://claude.ai/artifact/Lrqr1YUK8naGPTRAEN8n4q) (버전 36)
+- 원본 문서: [영어 EC 공부 노트](https://claude.ai/artifact/Lrqr1YUK8naGPTRAEN8n4q) (버전 37)
 
 ## 단어
 
@@ -57,3 +57,9 @@ order: 0
     - combine A with B ★, replace A with B, provide A with B, compare A with / to B, share A with B
 - [[영어 EC 문법 참고 - 가정법 한눈에 보기]]
     - 가정법 과거, 가정법 과거완료, 혼합 가정법
+
+## 비즈니스 영어 (매일 1개)
+
+| Day | 날짜 | 표현 | 뜻 | 쓰임·주의 | 예문 |
+|---|---|---|---|---|---|
+| 1 | 2026-11-27 | loop someone in | (논의·메일에) ~를 끼워 공유하다, 참조에 넣다 | 메일·메신저에서 아주 흔함. keep someone in the loop = 계속 진행 상황을 공유하다 | I've looped in our settlement team so they can confirm the payout date. (지급일 확인을 위해 정산팀을 메일에 추가했습니다.) |
