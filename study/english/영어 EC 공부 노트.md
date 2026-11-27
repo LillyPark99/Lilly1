@@ -12,7 +12,7 @@ order: 0
 - 단어: 주제별 표. 단어, 뜻, 메모(헷갈리는 점·업무에서 쓰는 뜻)
 - 문법: 비슷한 문법끼리 묶어 형태와 예문 1개씩
 
-- 원본 문서: [영어 EC 공부 노트](https://claude.ai/artifact/Lrqr1YUK8naGPTRAEN8n4q) (버전 37)
+- 원본 문서: [영어 EC 공부 노트](https://claude.ai/artifact/Lrqr1YUK8naGPTRAEN8n4q) (버전 38)
 
 ## 단어
 
@@ -42,6 +42,12 @@ order: 0
     - -ridden ★, -filled, -free, -proof, -friendly, -oriented
 - [[영어 EC 단어 13 강조·연결 표현]]
     - above all ★, most importantly, first of all, in addition / moreover, after all, in short
+- [[영어 EC 단어 14 집·건물 종류 (types of buildings)]]
+    - loft (room) ★, mansion ★, apartment complex ★, studio (apartment) ★, duplex ★, cottage ★, detached house, townhouse, condominium (condo), penthouse, bungalow, villa, cabin
+- [[영어 EC 단어 15 집 안팎 (가구·정원·공용 공간)]]
+    - fireplace ★, coffee table ★, sofa / couch, armchair, bookshelf, wardrobe / closet, nightstand, rug, flower bed ★, stepping stone ★, lawn, backyard, porch, balcony, fence, communal space ★, amenities
+- [[영어 EC 단어 16 도시·지역]]
+    - city ★, urban area ★, downtown, outskirts (of the city) ★, suburbs / suburban (area) ★, residential area ★, commercial area, countryside ★, rural, neighborhood, metropolitan area, commute
 
 ## 문법
 
