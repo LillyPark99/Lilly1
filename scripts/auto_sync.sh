@@ -20,7 +20,7 @@ changed=$(git status --porcelain -- . "${EXCLUDE[@]}" | sed -E 's/^...//; s/^"//
 # 공부 노트가 바뀌었으면 공부 위키(index.html)를 다시 빌드
 log=$(mktemp)
 if echo "$changed" | grep -qE '^(study/|scripts/)'; then
-  python3 scripts/build_study.py >>"$log" 2>&1 || { say "자동 동기화 중단: 공부 위키 빌드 실패 ($(tail -1 "$log"))"; rm -f "$log"; exit 0; }
+  python3 scripts/study_rebuild.py >>"$log" 2>&1 && python3 scripts/build_study.py >>"$log" 2>&1 || { say "자동 동기화 중단: 공부 위키 빌드 실패 ($(tail -1 "$log"))"; rm -f "$log"; exit 0; }
 fi
 rm -f "$log"
 

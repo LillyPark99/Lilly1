@@ -1,7 +1,6 @@
 ---
 title: 영어 EC 공부 노트
 category: english-ec
-source: en-ec
 order: 0
 ---
 
@@ -11,8 +10,6 @@ order: 0
 
 - 단어: 주제별 표. 단어, 뜻, 메모(헷갈리는 점·업무에서 쓰는 뜻)
 - 문법: 비슷한 문법끼리 묶어 형태와 예문 1개씩
-
-- 원본 문서: [영어 EC 공부 노트](https://claude.ai/artifact/Lrqr1YUK8naGPTRAEN8n4q) (버전 38)
 
 ## 단어
 
@@ -39,7 +36,6 @@ order: 0
 - [[영어 EC 단어 11 명확·모호]]
     - obscure ★, vague, ambiguous, unclear, explicit, implicit
 - [[영어 EC 단어 12 접미사]]
-    - -ridden ★, -filled, -free, -proof, -friendly, -oriented
 - [[영어 EC 단어 13 강조·연결 표현]]
     - above all ★, most importantly, first of all, in addition / moreover, after all, in short
 - [[영어 EC 단어 14 집·건물 종류 (types of buildings)]]
@@ -55,17 +51,11 @@ order: 0
     - 가정법 과거, 가정법 과거완료 ★, 혼합 가정법 ★, should have p.p., with hindsight ★, if only ★, I wish, it's a real shame ★
 - [[영어 EC 문법 02 대조·양보]]
     - even though ★, although, even if, whereas ★, while ★, despite ★, in spite of ★, however / nevertheless
-- [[영어 EC 문법 03 둘을 짝짓는 표현 - both / either / neither]]
+- [[영어 EC 문법 03 둘을 짝짓는 표현 - both - either - neither]]
     - both A and B, either A or B ★, neither A nor B ★, not only A but (also) B, either / neither + 단수 명사 ★, 긍정 맞장구: too / so, 부정 맞장구: either / neither ★
-- [[영어 EC 문법 04 분사 형용사 (-ed / -ing)]]
+- [[영어 EC 문법 04 분사 형용사 (-ed - -ing)]]
     - 과거분사 형용사 ★, 현재분사 형용사, 감정 -ed vs -ing
 - [[영어 EC 문법 05 동사 + A with B]]
     - combine A with B ★, replace A with B, provide A with B, compare A with / to B, share A with B
 - [[영어 EC 문법 참고 - 가정법 한눈에 보기]]
     - 가정법 과거, 가정법 과거완료, 혼합 가정법
-
-## 비즈니스 영어 (매일 1개)
-
-| Day | 날짜 | 표현 | 뜻 | 쓰임·주의 | 예문 |
-|---|---|---|---|---|---|
-| 1 | 2026-11-27 | loop someone in | (논의·메일에) ~를 끼워 공유하다, 참조에 넣다 | 메일·메신저에서 아주 흔함. keep someone in the loop = 계속 진행 상황을 공유하다 | I've looped in our settlement team so they can confirm the payout date. (지급일 확인을 위해 정산팀을 메일에 추가했습니다.) |

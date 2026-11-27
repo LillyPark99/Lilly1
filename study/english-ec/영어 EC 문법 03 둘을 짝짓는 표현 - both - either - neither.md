@@ -1,15 +1,10 @@
 ---
 title: 영어 EC 문법 03 둘을 짝짓는 표현 - both / either / neither
 category: english-ec
-source: en-ec
 order: 1
 ---
 
 # 영어 EC 문법 03 둘을 짝짓는 표현 - both / either / neither
-
-> 원본 문서에서 자동으로 만든 페이지입니다. 내용은 원본에서 고치면 다음 동기화 때 반영됩니다.
-
-- 원본 제목: 3. 둘을 짝짓는 표현: both / either / neither
 
 | 문법 | 형태·규칙 | 예문 |
 |---|---|---|
